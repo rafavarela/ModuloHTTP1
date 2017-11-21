@@ -1,0 +1,5 @@
+D:\__RAFA\PROYECTOS_NET\_EXPERIMENTOS\ModuloHTTP01\HelloWorldModule\bin\Debug\HelloWorldModule.dll
+D:\__RAFA\PROYECTOS_NET\_EXPERIMENTOS\ModuloHTTP01\HelloWorldModule\bin\Debug\HelloWorldModule.pdb
+D:\__RAFA\PROYECTOS_NET\_EXPERIMENTOS\ModuloHTTP01\HelloWorldModule\obj\Debug\HelloWorldModule.csprojResolveAssemblyReference.cache
+D:\__RAFA\PROYECTOS_NET\_EXPERIMENTOS\ModuloHTTP01\HelloWorldModule\obj\Debug\HelloWorldModule.dll
+D:\__RAFA\PROYECTOS_NET\_EXPERIMENTOS\ModuloHTTP01\HelloWorldModule\obj\Debug\HelloWorldModule.pdb
